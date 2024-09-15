@@ -1,0 +1,14 @@
+
+SELECT
+    C.Nome,
+    C.RazaoSocial,
+	T.NumeroTelefone
+   
+FROM
+    Clientes C
+INNER JOIN
+  Telefones T
+ON C.IdCliente = T.IdCliente
+INNER JOIN
+ Estados E
+ON E.IdCliente = C.IdCliente where E.CodigoEstado ='SP'
