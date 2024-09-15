@@ -1,0 +1,17 @@
+C:\teste\vagabackend\obj\Debug\net6.0\VagaBackEnd.csproj.AssemblyReference.cache
+C:\teste\vagabackend\obj\Debug\net6.0\VagaBackEnd.GeneratedMSBuildEditorConfig.editorconfig
+C:\teste\vagabackend\obj\Debug\net6.0\VagaBackEnd.AssemblyInfoInputs.cache
+C:\teste\vagabackend\obj\Debug\net6.0\VagaBackEnd.AssemblyInfo.cs
+C:\teste\vagabackend\obj\Debug\net6.0\VagaBackEnd.csproj.CoreCompileInputs.cache
+C:\teste\vagabackend\bin\Debug\net6.0\VagaBackEnd.exe
+C:\teste\vagabackend\bin\Debug\net6.0\VagaBackEnd.deps.json
+C:\teste\vagabackend\bin\Debug\net6.0\VagaBackEnd.runtimeconfig.json
+C:\teste\vagabackend\bin\Debug\net6.0\VagaBackEnd.dll
+C:\teste\vagabackend\bin\Debug\net6.0\VagaBackEnd.pdb
+C:\teste\vagabackend\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\teste\vagabackend\obj\Debug\net6.0\VagaBackEnd.csproj.CopyComplete
+C:\teste\vagabackend\obj\Debug\net6.0\VagaBackEnd.dll
+C:\teste\vagabackend\obj\Debug\net6.0\refint\VagaBackEnd.dll
+C:\teste\vagabackend\obj\Debug\net6.0\VagaBackEnd.pdb
+C:\teste\vagabackend\obj\Debug\net6.0\VagaBackEnd.genruntimeconfig.cache
+C:\teste\vagabackend\obj\Debug\net6.0\ref\VagaBackEnd.dll

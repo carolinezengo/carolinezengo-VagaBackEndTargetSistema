@@ -4,11 +4,12 @@ using System.Linq;
 using System.Text.Json;
 using System.Threading.Tasks;
 using Microsoft.VisualBasic;
-
 using Newtonsoft.Json;
 
 
-namespace estagio2.Faturamento
+
+
+namespace vagabackend.Faturamento
 {
     public class Faturamento
     {
@@ -20,7 +21,7 @@ namespace estagio2.Faturamento
         public double soma;
         public int i,dias = 0;
       int[] diasFaturamentoMaior = new int[50];
-         string conteudo =  File.ReadAllText("Faturamento/faturamento.json");
+         string conteudo =  File.ReadAllText("3-Faturamento/faturamento.json");
        
           public void MaiorFaturamento(){ 
               List<Valores> listaValores = JsonConvert.DeserializeObject<List<Valores>>(conteudo);

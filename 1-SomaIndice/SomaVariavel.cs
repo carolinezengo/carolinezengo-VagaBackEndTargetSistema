@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace estagio.SomaVariavel
+namespace vagabackend.SomaVariavel
 {
     public class SomaVariavel
     {
