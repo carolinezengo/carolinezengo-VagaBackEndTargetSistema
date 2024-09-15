@@ -1,13 +1,15 @@
-distancia seria de 100km
-Tso= 100km / 80km/h = 1,25hr
+distancia seria de 125km
+Tso=125km / 80km/h = 1,56hr
 
-tempo perdido no pedagio 10 min.. equivalente ha 0.17hr
+tempo perdido no pedagio 15 min.. equivalente ha 0.25hr
 
-1,25h + 0,17h = 1.42h
-V2 = 100km/1.42hr = 70,6km/hr
+1,56h + 0,25h = 1,81h
+V2 = 125km/1.81hr = 69,06km/hr
 
-x = (v1 * 100km)/v1+V2
-(110km/hr * 100km)/ (110km + 70,6km/hr)
+x = (v1 * 125km)/v1+V2
+(90km/hr * 125km)/ (90km + 69,06km/hr)
 
-x= 60,9km
+x = 11.250/ 159,06
+
+x= 70,72km
 
