@@ -12,7 +12,7 @@ namespace vagabackend.SomaVariavel
       }
 
    public void SomaVariaveis(){
-        int indice = 12, soma = 0, k = 1;
+        int indice = 13, soma = 0, k = 0;
        
         while ( k < indice)
         {
